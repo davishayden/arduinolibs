@@ -1,4 +1,8 @@
 Contains custom libraries for use with the arduino platform
 
-To use, drag and drop relevant header (.h) and .cpp files into a directory
-within the libraries folder of the arduino IDE.
+To use, drag and drop relevant library folder into the libraries directory where
+the arduino IDE is installed.
+
+Currently contains:
+1) WiFi Twitter library: Allows one to tweet wirelessly using the new Arduino 
+WiFi shield.
