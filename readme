@@ -1,0 +1,4 @@
+Contains custom libraries for use with the arduino platform
+
+To use, drag and drop relevant header (.h) and .cpp files into a directory
+within the libraries folder of the arduino IDE.
